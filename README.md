@@ -1,5 +1,5 @@
-[![MasterHead](https://drive.google.com/file/d/1N5Fl5WpLf0C5VR2OmKa6sQ5zwSsJ3tVN/view?usp=sharing)](github.com/ABCoder1)
-
+<!-- [![MasterHead](https://drive.google.com/file/d/1N5Fl5WpLf0C5VR2OmKa6sQ5zwSsJ3tVN/view?usp=sharing)](github.com/ABCoder1)
+ -->
 <h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
 <h3 align="center">A computer geek who loves exploring new technologies</h3>
 
@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abcoder1&show_icons=true&locale=en" alt="abcoder1" /></p>
 
-https://github-readme-stats.vercel.app/api?username=
+<!-- https://github-readme-stats.vercel.app/api?username= -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABCoder1&" alt="abcoder1" /></p>
