@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=abcoder1&show_icons=true&locale=en&layout=compact" alt="abcoder1" />
 
-&nbsp;<img align="center" width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abcoder1&show_icons=true&locale=en" alt="abcoder1" />
+&nbsp;<img align="right" width="430" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abcoder1&show_icons=true&locale=en" alt="abcoder1" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABCoder1&" alt="abcoder1"/> </p>
