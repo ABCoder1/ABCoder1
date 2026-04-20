@@ -15,7 +15,7 @@
 - 💻 Former Software Engineer @ Forcepoint with 2+ years of experience in Cloud Security and Backend Development (Distributed Systems, Backend Infra). 
 - 💬 **Ask me about:** Deep Learning, Bioinformatics, or Agentic Software Development.
 - 📫 **Reach me at:** [vishubhardwaj321@gmail.com](mailto:vishubhardwaj321@gmail.com)
-- ⚡ I enjoy building **end-to-end systems** — from models → APIs → production  
+- ⚡ I enjoy building **end-to-end systems**: from models → APIs → production  
 
 ### 🛠️ What I'm Working On
 
