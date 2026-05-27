@@ -34,6 +34,10 @@
   <img src="https://github.com/ABCoder1/ShakingLens/blob/main/ShakingLens-Demo.gif?raw=true" height="210" width="33%" alt="Pacman-Portfolio"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ABCoder1/MindFull/blob/main/mindfull-demo.gif?raw=true" height="320" width="33%" alt="MindFull"/>
+</p>
+
 ---
 
 ### 🌐 Connect with Me
