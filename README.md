@@ -26,16 +26,27 @@
 
 ---
 
-### 🧩 Hobbie Projects
+### 🧩 My Projects
 
 <p align="center">
-  <img src="https://github.com/ABCoder1/BattleShips/blob/main/main/assets/battleships-demo.gif?raw=true" height="180" width="33%" alt="Pacman-Portfolio"/>
-  <img src="https://github.com/ABCoder1/ABCoder1.github.io/blob/main/Pacman-Portfolio-Demo.gif?raw=true" height="250px" width="33%" alt="Pacman-Portfolio"/>
-  <img src="https://github.com/ABCoder1/ShakingLens/blob/main/ShakingLens-Demo.gif?raw=true" height="210" width="33%" alt="Pacman-Portfolio"/>
+  <a href="https://github.com/ABCoder1/BattleShips" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/ABCoder1/BattleShips/blob/main/main/assets/battleships-demo.gif?raw=true" height="160" width="33%" alt="BattleShips"/>
+  </a>
+  <a href="https://abcoder1.github.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/ABCoder1/ABCoder1.github.io/blob/main/Pacman-Portfolio-Demo.gif?raw=true" height="200%" width="33%" alt="Pacman-Portfolio"/>
+  </a>
+  <a href="https://github.com/ABCoder1/ShakingLens" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/ABCoder1/ShakingLens/blob/main/ShakingLens-Demo.gif?raw=true" height="160" width="33%" alt="ShakingLens"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ABCoder1/MindFull/blob/main/mindfull-demo.gif?raw=true" height="320" width="33%" alt="MindFull"/>
+  <a href="https://github.com/ABCoder1/MindFull" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/ABCoder1/MindFull/blob/main/mindfull-demo.gif?raw=true" height="320" width="33.5%" alt="MindFull"/>
+  </a>
+  <a href="https://github.com/AB-at-UCR/ACE.verify" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/AB-at-UCR/ACE.verify/blob/main/ace-verify-demo.gif?raw=true" height="320" width="31%" alt="ACE.Verify"/>
+  </a>
 </p>
 
 ---
@@ -46,7 +57,7 @@
 <a href="https://linkedin.com/in/aditya-bhardwaj-57243217b" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<br>
+<br> <br>
  <a href="https://instagram.com/its_that_addi" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
